@@ -1,0 +1,3 @@
+C:/Users/sethi/OneDrive/untitled/BME Project/Project2/DrugDosageChecker/cmake-build-debug/CMakeFiles/DrugDosageChecker.dir
+C:/Users/sethi/OneDrive/untitled/BME Project/Project2/DrugDosageChecker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sethi/OneDrive/untitled/BME Project/Project2/DrugDosageChecker/cmake-build-debug/CMakeFiles/rebuild_cache.dir

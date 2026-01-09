@@ -1,0 +1,18 @@
+Enter patient weight (kg):60
+
+Enter patient age (years):30
+
+Enter drug (Paracetamol/Ibuprofen):Paracetamol
+
+Enter prescribed dose (mg):400
+
+ALERT: Dose too low - may be ineffective.
+
+--- Dosage Summary ---
+Drug: Paracetamol
+Patient weight: 60 kg
+Prescribed dose: 400 mg
+Safe dosage range: 600 mg - 900 mg
+
+Process finished with exit code 0
+
